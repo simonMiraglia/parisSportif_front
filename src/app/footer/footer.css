@@ -1,0 +1,23 @@
+#deconnexion{
+
+    color :rgb(201, 58, 58);
+    position: absolute;
+    left: auto;
+    right: 80%;
+    top: 85%;
+    bottom: 20%;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: "Gill sans", sans-serif;
+
+}
+
+#footer{
+
+    top : 90%;
+    background-color: blue;
+
+
+}
