@@ -107,3 +107,10 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.7);
     margin-bottom:0;
   }
   
+  #ballon{
+    position: absolute;
+    left: 60%;
+    right: 35%;
+    top: 11%;
+    bottom: 79.5%;
+  }
