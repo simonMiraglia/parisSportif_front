@@ -3,7 +3,7 @@
     color :rgb(201, 58, 58);
     position: absolute;
     left: auto;
-    right: 80%;
+    right: 92%;
     top: 85%;
     bottom: 20%;
     font-family: 'Inter';
@@ -13,11 +13,18 @@
     font-family: "Gill sans", sans-serif;
 
 }
+footer { 
+    Width: 100%;
+    Height : 15%;
+    object-fit: cover;
+    position: absolute;
+    top: 90%;
+    bottom: 5.91%;
+    background-color: rgb(193, 191, 191);
+}
 
-#footer{
-
-    top : 90%;
-    background-color: blue;
-
+footer{
+    border-top: outset;
+    border-color: rgb(78, 75, 75);
 
 }
