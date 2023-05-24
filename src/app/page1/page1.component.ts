@@ -8,7 +8,7 @@ import {MatButtonModule} from '@angular/material/button';
 @Component({
   selector: 'app-page1',
   templateUrl: './page1.component.html',
-  styleUrls: ['./page1.component.css']
+  styleUrls: ['./page1.component.css'],
   
 })
 export class Page1Component {
