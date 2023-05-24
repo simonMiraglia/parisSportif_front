@@ -11,3 +11,6 @@ import { Component } from "@angular/core";
     
   }
   
+function profil (){
+  alert('profil');
+}

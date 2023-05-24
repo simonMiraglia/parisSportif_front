@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HeaderComponent } from './common/header/header';
+import { HeaderComponent } from './common/header/header';
 import { AppComponent } from './app.component';
 import { FooterComponent } from './common/footer/footer';
 import { AppRoutingModule } from './app-routing.module';
@@ -20,19 +21,10 @@ import { Page4Component } from './page4/page4.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent,
-    Page1Component,
-    Page2Component,
-    Page3Component,
-    Page4Component
+    FooterComponent
   ],
   imports: [
-    BrowserModule,
-    AppRoutingModule,
-    MatCardModule,
-    MatButtonModule,
-    MatIconModule,
-    MatDividerModule
+    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent]
