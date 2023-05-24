@@ -4,7 +4,7 @@
     position: absolute;
     left: auto;
     right: 92%;
-    top: 85%;
+    top: 65%;
     bottom: 20%;
     font-family: 'Inter';
     font-weight: 400;
@@ -15,16 +15,26 @@
 }
 footer { 
     Width: 100%;
-    Height : 15%;
+    Height : 10%;
     object-fit: cover;
     position: absolute;
     top: 90%;
     bottom: 5.91%;
     background-color: rgb(193, 191, 191);
-}
-
-footer{
-    border-top: outset;
+     border-top: outset;
     border-color: rgb(78, 75, 75);
-
 }
+#deconn{
+position: absolute;
+left: 2.58%;
+right: 94.84%;
+top: 45%;
+bottom: 15%;
+background: black;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
