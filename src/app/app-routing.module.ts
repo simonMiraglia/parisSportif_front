@@ -8,7 +8,8 @@ import { Page4Component } from './page4/page4.component';
 const routes: Routes = [
   {path: 'home', component: Page1Component}, 
   {path: 'page2', component: Page2Component},
-  {path: 'page4', component: Page4Component}
+  {path: 'profil', component: Page4Component},
+  {path: 'page3', component: Page3Component}
 
 ];
 
@@ -17,4 +18,3 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
-

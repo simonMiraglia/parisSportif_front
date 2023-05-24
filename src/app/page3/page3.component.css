@@ -1,0 +1,167 @@
+/* Lyon - Montpellier */
+.c{
+    text-align: center ;
+}
+h1{position: absolute;
+text-align: center;
+left: 15.57%;
+right: 18.4%;
+top: 32.02%;
+bottom: 48.62%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 24px;
+
+color: #000000;
+}
+#cote{
+position: absolute;
+left: 15.57%;
+right: 18.4%;
+top: 40.02%;
+bottom: 48.62%;
+background: rgba(182, 217, 176, 0.69);
+}
+#cote1{
+    position: absolute;
+    left: 35.25%;
+    right: 40.32%;
+    top: 31.77%;
+    bottom: 45.03%;
+ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000; 
+}
+#pari{
+position: absolute;
+left: 15.57%;
+right: 18.4%;
+top: 53.69%;
+bottom: 35.72%;
+    background: rgba(182, 217, 176, 0.69);
+}
+#gain{
+position: absolute;
+left: 15.57%;
+right: 18.4%;
+top: 66.26%;
+bottom: 19.77%;
+background: rgba(212, 225, 53, 0.53);}
+#pari11{
+ position: absolute;
+ left: 35.25%;
+ right: 40.32%;
+top: 30.55%;
+bottom: 39.25%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+#button{
+position: absolute;
+left: 25.61%;
+right: 30.6%;
+top: 94.78%;
+bottom: 0.19%;
+background: #1F7556;
+transform: matrix(1, 0, 0, -1, 0, 0);}
+#gain1{position: absolute;
+left: 30.25%;
+right: 35.32%;
+top: 22.99%;
+bottom: 21.06%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+color: #000000;}
+#gainp{
+position: absolute;
+left:0%;
+right: 66.29%;
+top: 30.99%;
+bottom: 21.06%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+color: #000000;
+}
+#score1{
+position: absolute;
+left: 10.39%;
+right: 82.24%;
+top: 27.45%;
+bottom: 25.38%;
+background: #FAFAFA;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+}
+#score2{
+    position: absolute;
+    left: 82.24%;
+    right: 10.39%;
+    top: 27.45%;
+    bottom: 25.38%;
+    background: #FAFAFA;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+    }
+    #pari1{
+        position: absolute;
+        left: 10.39%;
+        right: 82.24%;
+        top: 27.45%;
+        bottom: 25.38%;
+        background: #FAFAFA;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 34px;   
+    }
+    #pari2{
+        position: absolute;
+        left: 82.24%;
+    right: 10.39%;
+        top: 27.45%;
+        bottom: 25.38%;
+        background: #FAFAFA;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 34px;   
+    }
+    #valider{
+position: absolute;
+left: 25.61%;
+right: 30.6%;
+top: 82.78%;
+bottom: 12.19%;
+background: #1F7556;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #FFFFFF;
+    }
