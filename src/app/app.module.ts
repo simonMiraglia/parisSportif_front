@@ -7,7 +7,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { Page1Component } from './page1/page1.component';
 import { Page2Component } from './page2/page2.component';
 import { Page3Component } from './page3/page3.component';
-import {MatTreeFlatDataSource, MatTreeFlattener, MatTreeModule} from '@angular/material/tree';
+import {MatTreeModule} from '@angular/material/tree';
 import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
 
@@ -26,6 +26,7 @@ import {MatButtonModule} from '@angular/material/button';
     AppRoutingModule,
     MatButtonModule,
     MatIconModule,
+    MatTreeModule,
   ],    
   providers: [],
   bootstrap: [AppComponent]
