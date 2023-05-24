@@ -11,6 +11,6 @@ import { Component } from "@angular/core";
     
   }
   
-function profil (){
+function profil ():void{
   alert('profil');
 }
