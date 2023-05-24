@@ -14,6 +14,7 @@ import {MatDividerModule} from '@angular/material/divider';
 import {MatButtonModule} from '@angular/material/button';
 import { Page4Component } from './page4/page4.component';
 import { Page5Component } from './page5/page5.component';
+import { MatTreeModule } from '@angular/material/tree';
 
 
 
@@ -34,9 +35,11 @@ import { Page5Component } from './page5/page5.component';
     MatDividerModule,
     MatButtonModule,
     AppRoutingModule,
-    MatCardModule
+    MatCardModule,
+    MatTreeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
