@@ -1,0 +1,86 @@
+#titre{
+    position: absolute;
+    left: 15.57%;
+    right: 18.4%;
+    top: 32.02%;
+    bottom: 48.62%;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+    color: #000000;
+}
+#Nsalon{position: absolute;
+left: 27.89%;
+right: 31.78%;
+top: 50.06%;
+bottom: 46.69%;
+background: #D9D9D9;}
+
+#participant{position: absolute;
+left: 27.89%;
+right: 31.78%;
+top: 57.24%;
+bottom: 39.51%;
+background: #D9D9D9;}
+
+#comp{position: absolute;
+left: 27.89%;
+right: 31.78%;
+top: 64.31%;
+bottom: 32.44%;
+
+background: #D9D9D9;}
+#Csalon{position: absolute;
+left: 53.41%;
+right: 15.03%;
+top: 78%;
+bottom: 12.01%;
+background: #429A7A;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+color: #FFFFFF;
+}
+#Nomsalon{
+    position: absolute;
+    left: 10%;
+    right: 31.78%;
+    top: 50.06%;
+    bottom: 46.69%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+#comp1{
+    position: absolute;
+    left: 10%;
+    right: 31.78%;
+    top: 64.31%;
+bottom: 32.44%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+#nomparticipant{
+    position: absolute;
+    left: 10%;
+    right: 31.78%;
+    top: 57.24%;
+bottom: 39.51%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
