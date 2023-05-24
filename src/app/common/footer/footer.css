@@ -1,8 +1,8 @@
 footer { 
     Width: 100%;
-    Height : 15%;
+    Height : 10%;
     object-fit: cover;
-    position: absolute;
+    position:fixed;
     top: 90%;
     bottom: 5.91%;
     background-color: rgb(193, 191, 191);
@@ -23,3 +23,8 @@ footer {
     font-family: "Gill sans", sans-serif;
 }
 
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

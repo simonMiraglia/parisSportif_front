@@ -7,8 +7,12 @@ import { AppRoutingModule } from './app-routing.module';
 import { Page1Component } from './page1/page1.component';
 import { Page2Component } from './page2/page2.component';
 import { Page3Component } from './page3/page3.component';
+import {MatTreeModule} from '@angular/material/tree';
+import {MatIconModule} from '@angular/material/icon';
+import {MatButtonModule} from '@angular/material/button';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { Page5Component } from './page5/page5.component';
+
 
 @NgModule({
   declarations: [
@@ -23,8 +27,11 @@ import { Page5Component } from './page5/page5.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    MatButtonModule,
+    MatIconModule,
+    MatTreeModule,
     BrowserAnimationsModule
-  ],
+  ],    
   providers: [],
   bootstrap: [AppComponent]
 })

@@ -1,0 +1,16 @@
+.mat-tree {
+  width: 50%;
+  height: 30%;
+  position:relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fffdfd;
+  padding: 5px;
+}
+
+.mat-tree-node {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  
+}
