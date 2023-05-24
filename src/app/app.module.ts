@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HeaderComponent } from './common/header/header';
-import { HeaderComponent } from './common/header/header';
 import { AppComponent } from './app.component';
 import { FooterComponent } from './common/footer/footer';
 import { AppRoutingModule } from './app-routing.module';
@@ -14,6 +13,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatDividerModule} from '@angular/material/divider';
 import {MatButtonModule} from '@angular/material/button';
 import { Page4Component } from './page4/page4.component';
+import { Page5Component } from './page5/page5.component';
 
 
 
@@ -21,10 +21,20 @@ import { Page4Component } from './page4/page4.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    Page1Component,
+    Page2Component,
+    Page3Component,
+    Page4Component,
+    Page5Component
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    MatIconModule,
+    MatDividerModule,
+    MatButtonModule,
+    AppRoutingModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
