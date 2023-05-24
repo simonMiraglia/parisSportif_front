@@ -1,0 +1,134 @@
+#profil {
+    position: absolute;
+    left: 1%;
+    top: 13%;
+    bottom: auto;
+    font-style:normal;
+    font-weight: 700;
+    line-height: 350px;
+    font-size: 20px;
+}
+
+#rectangle {
+    width  : 550px;
+    height : 400px;
+    background : rgb(236, 236, 236);
+    left: 8%;
+    top: 37%;
+    position:absolute;
+    border-radius: 10%;
+  }
+
+  #rectangle2{
+    position: absolute;
+    width: 300px;
+    height: 420px;
+    left: 75%;
+    right: auto;
+    top:37%;
+    background-color: rgb(236, 236, 236);
+    border-radius: 10%;
+
+  }
+  
+  #pseudo{
+    position: absolute;
+    top: 47%;
+    left:16%;
+    font-size: x-large;
+    
+
+    
+  }
+
+  #chiffre{
+    position: absolute;
+    left:16%;
+    top:57%;
+    font-size: x-large;
+
+  }
+
+  #membres{
+    position: absolute;
+    left: 16%;
+    top:68%;
+    font-size: x-large;
+
+  }
+
+  #salon{
+    position: absolute;
+    left: 57%;
+    top:47%;
+    font-size: large;
+
+  }
+
+  #rectangle2{
+    position: absolute;
+
+  }
+
+  #salon2{
+    position: absolute;
+    left: 57%;
+    top:57%;
+    font-size: large;
+  }
+
+  #salon3{
+    position: absolute;
+    left:78%;
+    top: 43%;
+    font-size: large;
+
+  }
+
+  #salon4{
+    position: absolute;
+    left:80%;
+    top: 48%;
+    font-size: large
+
+  }
+
+  #salon5{
+    position: absolute;
+    left:80%;
+    top: 53%;
+    font-size: large
+
+  }
+
+  #pari{
+    position: absolute;
+    left:78%;
+    top: 60%;
+    font-size: large
+
+  }
+
+  
+#icone{
+position: absolute;
+top: 45.5%;
+left:13%;
+
+}
+
+#icone3{
+position: absolute;
+left: 13%;
+top:55%;
+}
+
+#icone2{
+position: absolute;
+left:13%;
+top:66%;
+}
+
+#ligne {
+    top: 80%;
+}

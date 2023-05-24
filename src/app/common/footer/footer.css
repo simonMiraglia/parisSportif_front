@@ -1,40 +1,33 @@
 #deconnexion{
-
-    color :rgb(201, 58, 58);
+    color :rgb(0, 0, 0);
     position: absolute;
     left: auto;
     right: 92%;
-    top: 65%;
+    top: 40%;
     bottom: 20%;
-    font-family: 'Inter';
-    font-weight: 400;
-    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
     line-height: 19px;
-    font-family: "Gill sans", sans-serif;
+
 
 }
 footer { 
     Width: 100%;
     Height : 10%;
     object-fit: cover;
-    position:fixed;
+    position: absolute;
     top: 90%;
     bottom: 5.91%;
-    background-color: rgb(193, 191, 191);
+    background-color: rgba(105, 113, 125, 0.601);
      border-top: outset;
-    border-color: rgb(78, 75, 75);
-}
-#deconn{
-position: absolute;
-left: 2.58%;
-right: 94.84%;
-top: 45%;
-bottom: 15%;
-background: black;
+    border-color: rgb(119, 118, 118);
 }
 
-.box {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+.material-icons {
+    position: absolute;
+    left: auto;
+    right: 90%;
+    top: 94%;
+    bottom: auto;
+}
