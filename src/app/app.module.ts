@@ -12,6 +12,7 @@ import {Component} from '@angular/core';
 import {MatIconModule} from '@angular/material/icon';
 import {MatDividerModule} from '@angular/material/divider';
 import {MatButtonModule} from '@angular/material/button';
+import { Page4Component } from './page4/page4.component';
 
 
 
@@ -22,7 +23,8 @@ import {MatButtonModule} from '@angular/material/button';
     FooterComponent,
     Page1Component,
     Page2Component,
-    Page3Component
+    Page3Component,
+    Page4Component
   ],
   imports: [
     BrowserModule,
