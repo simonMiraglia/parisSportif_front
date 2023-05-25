@@ -26,7 +26,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.7);
 
 #profil{
     position: absolute;
-    left: 83%;
+    left: 86%;
     right:auto;
     top: 29%;
     bottom: 90%;
@@ -51,24 +51,24 @@ text-shadow: 2px 5px 4px rgba(0, 0, 0, 0.7);
  
   }
   #visage {
-    left: 90%;
-    top:29%;
+    left: 28%;
+    top:10.5%;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.7);
   }
 
   #home{
     position: absolute;
     font-size: 30px;
-    top: 29%;
+    top: 10.5%;
     right:auto;
-    left:79%;
+    left: 29%;
     text-shadow: 0px 0px 0px rgba(1, 24, 49, 0.7);
 
   }
 
   #texte2 {
     position: absolute;
-    left: 75%;
+    left: 80%;
     right:auto;
     top: 29%;
     bottom: 90%;

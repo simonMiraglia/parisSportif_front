@@ -4,19 +4,19 @@ import { HeaderComponent } from './common/header/header';
 import { AppComponent } from './app.component';
 import { FooterComponent } from './common/footer/footer';
 import { AppRoutingModule } from './app-routing.module';
-import { Page1Component } from './page1/page1.component';
-import { Page2Component } from './page2/page2.component';
-import { Page3Component } from './page3/page3.component';
+import { Page1Component } from './home/page1.component';
+import { Page2Component } from './sports/page2.component';
+import { Page3Component } from './paris/page3.component';
 import {MatCardModule} from '@angular/material/card';
 import {Component} from '@angular/core';
 import {MatIconModule} from '@angular/material/icon';
 import {MatDividerModule} from '@angular/material/divider';
 import {MatButtonModule} from '@angular/material/button';
-import { Page4Component } from './page4/page4.component';
-import { Page5Component } from './page5/page5.component';
+import { Page4Component } from './profil/page4.component';
+import { Page5Component } from './salons/page5.component';
 import { MatTreeModule } from '@angular/material/tree';
-
-
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -36,7 +36,9 @@ import { MatTreeModule } from '@angular/material/tree';
     MatButtonModule,
     AppRoutingModule,
     MatCardModule,
-    MatTreeModule
+    MatTreeModule,
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

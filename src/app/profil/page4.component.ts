@@ -1,12 +1,13 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import {MatDividerModule} from '@angular/material/divider';
-
 
 @Component({
   selector: 'app-page4',
   templateUrl: './page4.component.html',
-  styleUrls: ['./page4.component.css']
+  styleUrls: ['./page4.component.css'],
+
 })
 export class Page4Component {
+
 
 }
