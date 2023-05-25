@@ -1,0 +1,27 @@
+#texte {
+    top: 40%;
+    left: 20%;
+    position: absolute;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+
+}
+
+#bouton2{
+    top: 50%;
+    left: 40%;
+    position: absolute;
+    background-color: rgb(26, 82, 154);
+    color: aliceblue;
+
+}
+
+ #bouton1{
+    top: 50%;
+    left: 60%;
+    position: absolute;
+    background-color: rgb(26, 82, 154);
+    color: aliceblue;
+
+ }

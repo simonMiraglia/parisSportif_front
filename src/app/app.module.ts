@@ -17,6 +17,7 @@ import { Page5Component } from './salons/page5.component';
 import { MatTreeModule } from '@angular/material/tree';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { PariValideComponent } from './pari-valide/pari-valide.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { FormsModule } from '@angular/forms';
     Page2Component,
     Page3Component,
     Page4Component,
-    Page5Component
+    Page5Component,
+    PariValideComponent
   ],
   imports: [
     BrowserModule,
