@@ -27,8 +27,8 @@ footer {
 .material-icons {
     position: absolute;
     left: auto;
-    right: 90%;
-    top: 94%;
+    right: 20%;
+    top: 8%;
     bottom: auto;
 }
 
@@ -44,4 +44,18 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  #icone {
+    position: absolute;
+    left: auto;
+    right: 96%;
+    top: 93%;
+    bottom: 20%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
   }
